@@ -1,1 +1,1 @@
-This a test practce project.
+This a test practise project.
